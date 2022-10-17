@@ -819,7 +819,7 @@ body.dark-theme {
     padding: 0 .3rem;
     border-radius: .4rem;
     z-index: var(--z-tooltip);
-    transition: all 0.4s;
+    transition: all 1s;
 }
 
 .scrollup:hover {
