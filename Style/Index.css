@@ -810,7 +810,7 @@ body.dark-theme {
 
 @media screen and (min-width:350px) {
     .about{
-        width: 480px;
+        min-width: 480px;
     }
     .container{
         margin-left: var(--mb-1);
